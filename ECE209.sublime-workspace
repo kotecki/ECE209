@@ -32,11 +32,19 @@
 	"buffers":
 	[
 		{
-			"file": "/home/David/Dropbox/HTML/DEK_UMaine/ECE342/index.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4845,
+				"buffer_size": 7899,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/myfile.css",
+			"settings":
+			{
+				"buffer_size": 1620,
 				"line_ending": "Unix"
 			}
 		}
@@ -118,6 +126,7 @@
 	},
 	"file_history":
 	[
+		"/home/David/Dropbox/HTML/DEK_UMaine/ECE342/index.html",
 		"/home/David/Dropbox/HTML/DEK_UMaine/ECE209/index.html",
 		"/home/David/Dropbox/HTML/DEK_UMaine/ECE209/css/myfile.css",
 		"/net/faculty/kotecki/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
@@ -261,19 +270,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/David/Dropbox/HTML/DEK_UMaine/ECE342/index.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4845,
+						"buffer_size": 7899,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								56,
-								56
+								4420,
+								4420
 							]
 						],
 						"settings":
@@ -283,10 +292,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 900.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/myfile.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
