@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7899,
+				"buffer_size": 8000,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -226,7 +226,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -274,15 +274,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7899,
+						"buffer_size": 8000,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4420,
-								4420
+								4692,
+								4692
 							]
 						],
 						"settings":
