@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9073,
+				"buffer_size": 10179,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -126,6 +126,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Kotecki/Dropbox/HTML/DEK_UMaine/ECE547/index.html",
 		"/home/David/Dropbox/HTML/DEK_UMaine/ECE342/index.html",
 		"/home/David/Dropbox/HTML/DEK_UMaine/ECE209/index.html",
 		"/home/David/Dropbox/HTML/DEK_UMaine/ECE209/css/myfile.css",
@@ -226,7 +227,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -240,6 +241,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"http:",
+			"https",
+			"http:",
 			"border",
 			"python",
 			"command",
@@ -274,15 +278,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9073,
+						"buffer_size": 10179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2013,
-								2013
+								0,
+								0
 							]
 						],
 						"settings":
@@ -292,7 +296,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 139.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -333,7 +337,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -374,7 +378,7 @@
 	"project": "ECE209.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
