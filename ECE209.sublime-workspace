@@ -44,7 +44,7 @@
 			"file": "exams.html",
 			"settings":
 			{
-				"buffer_size": 9021,
+				"buffer_size": 9030,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -278,7 +278,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -308,7 +308,7 @@
 						"translation.y": 570.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -317,15 +317,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9021,
+						"buffer_size": 9030,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8162,
-								8162
+								4853,
+								4853
 							]
 						],
 						"settings":
@@ -335,10 +335,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 867.0,
+						"translation.y": 492.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
